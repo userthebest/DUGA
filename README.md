@@ -25,3 +25,5 @@ GoodSoundForYou - soundbible.com - Attribution 3.0
 InspectorJ - freesound.org - Attribution 3.0
 Kibblesbob - soundbible.com - Attribution 3.0
 original_sound - freesound.org - Attribution 3.0
+
+[![Run on Repl.it](https://repl.it/badge/github/userthebest/DUGA)](https://repl.it/github/userthebest/DUGA)
